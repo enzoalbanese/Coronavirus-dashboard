@@ -25,7 +25,7 @@ library(tidyr)
 
 # coronavirus <- utils::read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/06-27-2021.csv", stringsAsFactors = FALSE)
 
-coronavirus <- utils::read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/02-13-2023.csv", stringsAsFactors = FALSE)
+coronavirus <- utils::read.csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/02-15-2023.csv", stringsAsFactors = FALSE)
 
 
 df_italy <- utils::read.csv("https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv", stringsAsFactors = FALSE)
