@@ -15,4 +15,4 @@ I dati e la dashboard vengono aggiornati su base giornaliera.
 
 **Contatto**
 
-Per qualsiasi domanda o feedback, puoi contattarmi su http://www.enzoalbanese.it. Maggiori informazioni su questa dashboard sono disponibili in questo articolo: https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/
+Per qualsiasi domanda o feedback, puoi contattarmi su https://www.enzoalbanese.it. Maggiori informazioni su questa dashboard sono disponibili in questo articolo: https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/
